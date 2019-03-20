@@ -41,7 +41,9 @@ a{
 a:hover{
   text-decoration:none;
 }
-
+.list-group-horizontal{
+  margin-left: -40px;
+}
 .list-group-horizontal .list-group-item {
     display: inline-block;
 }
